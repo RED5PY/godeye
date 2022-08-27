@@ -1,5 +1,9 @@
 # godeye
 
+* WhatsApp hijacked
+* Instagram hack
+* Facebook brute force 
+
 How to install godeye
 
 apt update
